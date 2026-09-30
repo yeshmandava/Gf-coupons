@@ -9,3 +9,6 @@ V2 adds server-backed coupon redemption, email notifications, and a private `/ad
 4. Redeploy after adding environment variables.
 
 The notification email is deliberately not hard-coded into browser JavaScript.
+
+
+Database integration: Upstash Redis connected through Vercel Marketplace.
